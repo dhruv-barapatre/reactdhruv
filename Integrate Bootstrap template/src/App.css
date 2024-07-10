@@ -2,7 +2,7 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
 }
 
 .logo {
@@ -37,6 +37,53 @@
   padding: 2em;
 }
 
-.read-the-docs {
-  color: #888;
+
+*{
+  box-sizing: border-box;
+}
+
+p{
+  font-size: 1.5rem;
+  color: #CDCED0;
+}
+body{
+  position: relative;
+}
+#root{
+  margin: 0;
+  position: absolute;
+  left: 10%;
+}
+.col-3{
+  position: relative;
+}
+.col-4 img{
+  height:750px;
+  margin-top: -120px;
+}
+.row{
+  align-items: center;
+}
+
+h1,p{
+  margin-bottom: 40px;
+}
+a{
+  font-size: 20px;
+  padding: 10px 20px;
+  background-color: #0382EB;
+  margin: 10px 20px;
+  display: inline-block;
+  color: white;
+  border-radius: 30px;
+  margin-left: 0;
+}
+.icons{
+  margin-top: 20px;
+}
+i{
+  font-size: 20px;
+  color:#cdced0;
+  padding: 0px 15px;
+  cursor: pointer;
 }
