@@ -225,20 +225,6 @@
       "code": "A1372-5195-00"
     },
     {
-      "id": "17",
-      "change": "New",
-      "image": "https://www.nixon.com/cdn/shop/files/A1370-5194-view1_500x.png?v=1718725117",
-      "title": "Disk",
-      "price": 125,
-      "rate": 4.5,
-      "count": 45,
-      "type": "digital",
-      "color": "orange",
-      "bandMaterial": "rubber",
-      "description": "Neither circle nor square, the Disk breaks through with the simplicity of geometric shape. Large digital readouts are controlled with an easy-to-use interface. The essentials include - day, date, alarm, chronograph, and countdown timer – and are just a simple button press away. (Don’t worry, we only created three buttons.) The case was shaped uber-thin for active wearability and low profile. Produced with Other People’s Plastic, the Disk is equal parts eco-conscious and style-forward.",
-      "code": "A1370-5194-00"
-    },
-    {
       "id": "18",
       "change": "Engravable",
       "image": "https://www.nixon.com/cdn/shop/files/A346-5163-view1_500x.png?v=1718725368",
@@ -279,20 +265,6 @@
       "bandMaterial": "rubber",
       "description": "A slim superstar with a singular goal: make a low-profile watch for timed sports that can stand up to the most punishing conditions. The perfect training tool that features multiple timer options, a rugged but thin 8mm case design, and a sporty, breathable strap. From sets in the gym or the water, laps in the pool or the track, the Heat is on.",
       "code": "A1320-5154-00"
-    },
-    {
-      "id": "21",
-      "change": "New Color",
-      "image": "https://www.nixon.com/cdn/shop/files/A1311-5154-view1_500x.png?v=1718724879",
-      "title": "Siren",
-      "price": 125,
-      "rate": 4.5,
-      "count": 254,
-      "type": "digital",
-      "color": "yellow",
-      "bandMaterial": "rubber",
-      "description": "An essential tide watch with both style and substance, the Siren matches contemporary design with surf-specific features and sustainable materials. #Tide recycled plastic uses ocean-bound waste to create the super-durable case material, which means cleaner breaks for everyone. Plus, the basic tide functionality and soft silicone band mean it slays both in and out of the water.",
-      "code": "A1311-5154-00"
     },
     {
       "id": "22",
